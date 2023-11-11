@@ -11,7 +11,7 @@ pip3 install requests beautifulsoup4 html2text
 ## Usage
 Set the domain that you want to crawl in the `crawler.py` file.
 ```python
-domain = 'https://algebrakit.com'
+domain = 'https://livewire.laravel.com'
 ```
 
 Run the crawler.
